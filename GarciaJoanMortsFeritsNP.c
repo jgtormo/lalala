@@ -30,7 +30,7 @@ int main (void){
 	d=1;
 	i=0;
 	
-	printf ("\nBenvingut. Això és una versió casolana del mastermind. Dóna\'m el nombre de números que voldràs encertar, i el rang (el nombre màxim, el més petit serà el 0, i anirem amb naturals). Pensa que els nombres no es poden repetir, i que per tant el número més gran possible ha de ser més gran o igual que el nombre de números que hi ha a encertar.\n\n");
+	printf ("\nBenvingut humà. Això és una versió casolana del mastermind. Dóna\'m el nombre de números que voldràs encertar, i el rang (el nombre màxim, el més petit serà el 0, i anirem amb naturals). Pensa que els nombres no es poden repetir, i que per tant el número més gran possible ha de ser més gran o igual que el nombre de números que hi ha a encertar.\n\n");
 
 	printf ("Nombre de números a endevinar (més petit de 1000): ");
 	scanf ("%d", &p);
