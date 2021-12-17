@@ -6,6 +6,8 @@
  ****DESCRIPCIÓ DEL PROGRAMA:
  Versió casolana del mastermind: l'ordinador es pensa P dígits diferents i tenim N intents per encertar-los. Un mort és un nombre encertat a la posició on toca, i un ferit és un nombre que hi és però que no està a la posició correcta.
 
+Hi this is some irrelevant comment.
+
 */
 
 
